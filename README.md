@@ -1,2 +1,2 @@
 # elec
-éditions de l’École des chartes
+Éditions de l’École des chartes
